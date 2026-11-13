@@ -45,10 +45,3 @@ The easiest way to run this project is through Google Colab, as it handles all d
 5. **Upload an image**, and adjust the **Noise Intensity** and **Blur Kernel Size** sliders to observe the real-time impact on the edge metrics!
 
 ---
-
-## 👥 Authors
-Developed for CS-305: Computer Vision by:
-* Shreyas Reddy 
-* Bindu Sree 
-* Nandita Nishanth 
-* Shreena Sherlyn 
